@@ -18,3 +18,13 @@ Due to copyright, the dataset is not provided in the folder. Please contact lamb
 ----------------------------------------------SQL folder------------------------------------
 Contains the scripts,created by Lambros Vagias, needed to answer the given tasks. Due to copyright the questions are not available and some answers are also not available.
 Open the file with "Edit at notepad++) to properly see the files.
+
+It also contains the Quasi folder which contains information about a field experiment examination. Also due to copyright information about this project are missing.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For more information contact lambros.vagias@yahoo.com
