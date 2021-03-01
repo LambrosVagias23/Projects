@@ -15,3 +15,6 @@ Additionaly, it contains the code created by Lambros Vagias for his assignments 
 
 Due to copyright, the dataset is not provided in the folder. Please contact lambros.vagias@yahoo.com for more information. 
 
+----------------------------------------------SQL folder------------------------------------
+Contains the scripts,created by Lambros Vagias, needed to answer the given tasks. Due to copyright the questions are not available and some answers are also not available.
+Open the file with "Edit at notepad++) to properly see the files.
